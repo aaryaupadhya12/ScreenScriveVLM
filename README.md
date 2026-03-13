@@ -1,2 +1,1 @@
-# MULTIMODAL_FINETUNING_CQA
-Multimodal Finetuning using CQA
+# Multimodal Finetuning RICO-SCREEN2WORDS
