@@ -8,7 +8,7 @@
 ![Hardware](https://img.shields.io/badge/Hardware-T4%20GPU-yellow)
 ![Library](https://img.shields.io/badge/Library-Unsloth-red)
 ![Samples](https://img.shields.io/badge/Training%20Samples-700-green)
-![Epochs](https://img.shields.io/badge/Epochs-3-blue)
+![Epochs](https://img.shields.io/badge/Epochs-1-blue)
 ![Steps](https://img.shields.io/badge/Steps-264-blueviolet)
 ![Loss](https://img.shields.io/badge/Train%20Loss-0.72-brightgreen)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-aaryaupadhya20-ff69b4)
@@ -26,7 +26,7 @@ natural language descriptions of mobile app UI screens.
 | Parameter | Value |
 |---|---|
 | Learning rate | 1e-4 |
-| Epochs | 3 |
+| Epochs | 1 |
 | Batch size | 2 |
 | Gradient accumulation | 4 (effective batch = 8) |
 | Scheduler | cosine |
