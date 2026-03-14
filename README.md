@@ -9,7 +9,7 @@
 ![Library](https://img.shields.io/badge/Library-Unsloth-red)
 ![Samples](https://img.shields.io/badge/Training%20Samples-700-green)
 ![Epochs](https://img.shields.io/badge/Epochs-3-blue)
-![Steps](https://img.shields.io/badge/Steps-247-blueviolet)
+![Steps](https://img.shields.io/badge/Steps-264-blueviolet)
 ![Loss](https://img.shields.io/badge/Train%20Loss-0.72-brightgreen)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-aaryaupadhya20-ff69b4)
 
