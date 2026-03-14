@@ -1,6 +1,6 @@
 # Qwen2.5-VL Fine-tuned on RICO Screen2Words
 
-# ScreenScribe — Mobile UI Screen Captioning with Qwen2.5-VL
+# RICOVLM — Mobile UI Screen Captioning with Qwen2.5-VL
 
 ![Fine-tuning](https://img.shields.io/badge/Method-QLoRA-blue)
 ![Model](https://img.shields.io/badge/Model-Qwen2.5--VL--7B-purple)
