@@ -119,3 +119,5 @@ print(prediction)
 ```
 
 A ready-to-run script is available at [`src/Inference_trial/inference.py`](src/Inference_trial/inference.py).
+
+Fututure: Run 3-5 Epochs with 50% of the dataset for better results on better compute availability
